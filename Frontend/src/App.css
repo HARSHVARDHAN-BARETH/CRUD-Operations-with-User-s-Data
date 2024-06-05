@@ -1,0 +1,25 @@
+
+.btn{
+    margin-left: 1vw;
+}
+
+.heading{
+    display: flex;
+
+    width: 100%;
+}
+
+.heading .btn{
+    padding: 12px 14px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.heading h2{
+    text-align: center;
+    font-weight: 600;
+    color: crimson;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+    width: 75%;
+}
